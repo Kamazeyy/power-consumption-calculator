@@ -24,7 +24,7 @@
 
 ## Налаштування
 ```bash
-git clone [https://github.com/username/energy-consumption-calculator.git](https://github.com/Kamazeyy/power-consumption-calculator.git)
+git clone https://github.com/Kamazeyy/power-consumption-calculator.git
 cd energy-consumption-calculator
 python manage.py runserver
 ```
